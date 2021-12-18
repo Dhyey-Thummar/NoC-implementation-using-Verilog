@@ -1,4 +1,4 @@
-module FIFOBuffer (q
+module FIFOBuffer (q,k
     
 );
     
